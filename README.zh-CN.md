@@ -49,7 +49,7 @@
 
 ## 📥 下载
 
-- **Android**：Google Play（`com.yangdai.calcpro`）
+- **Android**：Google Play
 - **iOS**：App Store
 - **桌面（Windows / macOS / Linux）**：即将发布
 
