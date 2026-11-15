@@ -39,11 +39,16 @@
 
 ## 📸 截图
 
-> 在这里放置 3–5 张应用截图（计算器、工具首页、悬浮计算器、汇率、深色模式）。
-
-| 计算器 | 工具首页 | 悬浮计算器 |
-| :---: | :---: | :---: |
-| _screenshot_ | _screenshot_ | _screenshot_ |
+<p align="center">
+<img src="/screenshots/01_calculator.zh-CN.png" alt="calculator" width="200">
+<img src="/screenshots/02_command_line.zh-CN.png" alt="command" width="200">
+<img src="/screenshots/03_toolbox.zh-CN.png" alt="toolbox" width="200">
+<img src="/screenshots/04_geometry.zh-CN.png" alt="geometry" width="200">
+<img src="/screenshots/05_units.zh-CN.png" alt="units" width="200">
+<img src="/screenshots/06_finance.zh-CN.png" alt="finance" width="200">
+<img src="/screenshots/07_history.zh-CN.png" alt="history" width="200">
+<img src="/screenshots/08_settings.zh-CN.png" alt="settings" width="200">
+</p>
 
 ---
 
