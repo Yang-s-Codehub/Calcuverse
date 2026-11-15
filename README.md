@@ -39,11 +39,16 @@ Calcuverse is a universal calculator and utility suite built with **Kotlin Multi
 
 ## 📸 Screenshots
 
-> Add 3–5 screenshots here (calculator, toolbox, floating calculator, currency, dark mode).
-
-| Calculator | Toolbox | Floating calculator |
-| :---: | :---: | :---: |
-| _screenshot_ | _screenshot_ | _screenshot_ |
+<p align="center">
+<img src="/screenshots/01_calculator.en.png" alt="calculator" width="200">
+<img src="/screenshots/02_command_line.en.png" alt="command" width="200">
+<img src="/screenshots/03_toolbox.en.png" alt="toolbox" width="200">
+<img src="/screenshots/04_geometry.en.png" alt="geometry" width="200">
+<img src="/screenshots/05_units.en.png" alt="units" width="200">
+<img src="/screenshots/06_finance.en.png" alt="finance" width="200">
+<img src="/screenshots/07_history.en.png" alt="history" width="200">
+<img src="/screenshots/08_settings.en.png" alt="settings" width="200">
+</p>
 
 ---
 
