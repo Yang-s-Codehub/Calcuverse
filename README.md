@@ -49,7 +49,7 @@ Calcuverse is a universal calculator and utility suite built with **Kotlin Multi
 
 ## 📥 Download
 
-- **Android**: Google Play (`com.yangdai.calcpro`)
+- **Android**: Google Play
 - **iOS**: App Store
 - **Desktop (Windows / macOS / Linux)**: coming soon
 
