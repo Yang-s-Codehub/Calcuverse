@@ -189,9 +189,9 @@ Nothing in this section prevents you from raising a complaint with a consumer pr
 
 If you have questions about these Terms, contact:
 
-**Developer:** [Your name or organization]
-**Email:** [your-contact-email@example.com]
-**Location:** [City, Country]
+**Developer:** [Yang's Codehub]
+
+**Github:** [https://github.com/Yang-s-Codehub/Calcuverse]
 
 ---
 
