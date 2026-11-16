@@ -7,7 +7,7 @@ This Privacy Policy explains how Calcuverse (also known as 数界) ("the App", "
 
 By installing or using the App, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree, please do not use the App.
 
-If you have any questions about this Privacy Policy, you can contact us at: **[your-contact-email@example.com]**
+If you have any questions about this Privacy Policy, you can contact us at: **[https://github.com/Yang-s-Codehub/Calcuverse/issues]**
 
 ---
 
@@ -40,14 +40,14 @@ You can delete this data at any time by clearing the calculation history in the 
 
 When you use the App, the following third-party services may collect information automatically. We do not directly store this data on our own servers; it is processed by these providers under their own privacy policies.
 
-| Category | Data | Collected by | Purpose |
-| --- | --- | --- | --- |
-| Advertising | Advertising identifier (e.g., Google Advertising ID / AAID), IP address, device type, OS version, approximate location derived from IP, ad interaction data | Google AdMob | To display and measure banner and interstitial advertisements |
-| Consent management | Your privacy/consent choices, device and region information | Google User Messaging Platform (UMP) SDK | To obtain and store your consent for personalized advertising where required by law |
-| Analytics | App usage events, sessions, device and app information, approximate location derived from IP, advertising identifier (where permitted) | Google Firebase Analytics | To understand aggregate usage and improve the App |
-| Crash reporting | Crash stack traces, device state and model, OS version, app version, app instance identifiers | Google Firebase Crashlytics | To diagnose and fix crashes and improve stability |
-| Performance monitoring | App startup and trace performance data, device and app information | Google Firebase Performance Monitoring | To monitor and improve App performance |
-| Purchases | Purchase and transaction status for in-app purchases and subscriptions (no full payment card data) | Google Play Billing (and Apple App Store / store services on Apple platforms) | To process and validate in-app purchases and subscriptions |
+| Category               | Data                                                                                                                                                        | Collected by                                                                  | Purpose                                                                             |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Advertising            | Advertising identifier (e.g., Google Advertising ID / AAID), IP address, device type, OS version, approximate location derived from IP, ad interaction data | Google AdMob                                                                  | To display and measure banner and interstitial advertisements                       |
+| Consent management     | Your privacy/consent choices, device and region information                                                                                                 | Google User Messaging Platform (UMP) SDK                                      | To obtain and store your consent for personalized advertising where required by law |
+| Analytics              | App usage events, sessions, device and app information, approximate location derived from IP, advertising identifier (where permitted)                      | Google Firebase Analytics                                                     | To understand aggregate usage and improve the App                                   |
+| Crash reporting        | Crash stack traces, device state and model, OS version, app version, app instance identifiers                                                               | Google Firebase Crashlytics                                                   | To diagnose and fix crashes and improve stability                                   |
+| Performance monitoring | App startup and trace performance data, device and app information                                                                                          | Google Firebase Performance Monitoring                                        | To monitor and improve App performance                                              |
+| Purchases              | Purchase and transaction status for in-app purchases and subscriptions (no full payment card data)                                                          | Google Play Billing (and Apple App Store / store services on Apple platforms) | To process and validate in-app purchases and subscriptions                          |
 
 Information collected by these third parties may include identifiers that are considered personal information under certain laws (such as your advertising identifier and IP address). We do **not** receive your name, email address, or precise physical location, and we do not combine third-party data with your calculation content.
 
@@ -137,7 +137,7 @@ If you are a California resident, you have the right to know what personal infor
 
 ## 7. Children's Privacy
 
-The App is a general-purpose utility and is not directed to children under the age of 13 (or the minimum age required in your country). We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided personal information, please contact us at **[your-contact-email@example.com]** and we will take appropriate steps to address it.
+The App is a general-purpose utility and is not directed to children under the age of 13 (or the minimum age required in your country). We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided personal information, please contact us at **[https://github.com/Yang-s-Codehub/Calcuverse/issues]** and we will take appropriate steps to address it.
 
 Depending on your region and the App's distribution settings, advertisements may be served by Google AdMob, which can be configured for child-directed treatment. If you believe the App should treat you as a child under applicable law, contact us so we can assist.
 
@@ -173,9 +173,9 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 If you have questions, concerns, or requests regarding this Privacy Policy, contact:
 
-**Developer:** [Your name or organization]
-**Email:** [your-contact-email@example.com]
-**Location:** [City, Country]
+**Developer:** [Yang's Codehub]
+
+**Github:** [https://github.com/Yang-s-Codehub/Calcuverse]
 
 ---
 
