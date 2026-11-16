@@ -101,5 +101,5 @@ If you'd like to reuse some of the UI components, please check the license and u
 
 ## 📄 License
 
-This application is proprietary. Copyright © 2026 the developer. All rights reserved.
+This application is proprietary. Copyright © 2026 Yang's Codehub. All rights reserved.
 The separate open-source UI components repository is licensed under **Apache-2.0**.
