@@ -54,7 +54,7 @@
 
 ## 📥 下载
 
-- **Android**：Google Play
+- **Android**：[Google Play](https://play.google.com/store/apps/details?id=com.yangdai.calcpro)
 - **iOS**：App Store
 - **桌面（Windows / macOS / Linux）**：即将发布
 
