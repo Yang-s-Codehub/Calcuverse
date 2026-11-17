@@ -17,7 +17,7 @@ Calcuverse is a universal calculator and utility suite built with **Kotlin Multi
 - **🪟 Floating calculator** — a draggable, resizable, translucent overlay that works on top of any app, so you can calculate without switching away (Android).
 - **📱 Home-screen widget** — run quick calculations right from your home screen.
 - **🔢 44 tools across 7 categories** — math, geometry, unit conversion, finance, health, date & time, and everyday utilities in a single app.
-- **💱 Offline currency conversion** — built-in European Central Bank reference rates, refreshed daily and available offline.
+- **💱 Currency conversion** — built-in European Central Bank reference rates, refreshed daily and available offline.
 - **🎨 Adaptive & personal** — a modern Material 3 / Material You interface with light & dark themes and multiple color schemes.
 - **📴 Privacy-friendly** — all calculations and history stay on your device. Nothing is uploaded to our servers.
 
