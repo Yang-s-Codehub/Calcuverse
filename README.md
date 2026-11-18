@@ -75,8 +75,8 @@ If you'd like to reuse some of the UI components, please check the license and u
 
 ## 📄 Privacy Policy & Terms of Service
 
-- [Privacy Policy](./legal/privacy-policy.en.md) · [中文](./legal/privacy-policy.zh-CN.md)
-- [Terms of Service](./legal/terms-of-service.en.md) · [中文](./legal/terms-of-service.zh-CN.md)
+- [Privacy Policy](./PRIVACY_POLICY.md) · [中文](./legal/privacy-policy.zh-CN.md)
+- [Terms of Service](./TERMS_OF_SERVICE.md) · [中文](./legal/terms-of-service.zh-CN.md)
 
 ---
 
