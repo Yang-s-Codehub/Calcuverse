@@ -75,8 +75,8 @@
 
 ## 📄 隐私权政策与使用条款
 
-- [隐私权政策 (Privacy Policy)](./legal/privacy-policy.zh-CN.md) · [English](./legal/privacy-policy.en.md)
-- [服务条款 (Terms of Service)](./legal/terms-of-service.zh-CN.md) · [English](./legal/terms-of-service.en.md)
+- [隐私权政策 (Privacy Policy)](./legal/privacy-policy.zh-CN.md) · [English](./PRIVACY_POLICY.md)
+- [服务条款 (Terms of Service)](./legal/terms-of-service.zh-CN.md) · [English](./TERMS_OF_SERVICE.md)
 
 ---
 
